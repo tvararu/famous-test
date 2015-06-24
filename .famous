@@ -1,0 +1,1 @@
+{"scripts":{"deploy-folder":"public/tvararu:famous-test","deploy":[["run","snapshot-component","--","-n","tvararu:famous-test"]],"setup":[["install"],["run","local-only-bootstrap","--","--watchAfterBuild=no"]]}}
